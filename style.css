@@ -1,0 +1,11 @@
+p {
+  color: red;
+}
+
+.destaque {
+  font-weight: bold;
+}
+
+* {
+  margin: 90px;
+}
